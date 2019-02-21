@@ -1,0 +1,26 @@
+{
+  "name": "next-random-name",
+  "description": "Get random Chinese name",
+  "main": "dist/next-random-name.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-random-name",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "build",
+    "gulpfile.js"
+  ]
+}
